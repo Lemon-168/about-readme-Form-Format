@@ -49,31 +49,3 @@ AI helps me get knowledge
   </tr>
 </table>
 
-## 表格示例5
-
-<table>
-  <tr>
-    <td style="position: relative; width: 100px; height: 50px; text-align: center; vertical-align: middle; border: 1px solid #d0d7de;">
-      <svg width="100" height="50" style="position: absolute; top: 0; left: 0; pointer-events: none;">
-        <line x1="0" y1="50" x2="100" y2="0" stroke="#d0d7de" stroke-width="1"/>
-      </svg>
-      <span style="position: absolute; top: 4px; left: 6px; font-size: 13px; font-weight: bold;">文明</span>
-      <span style="position: absolute; bottom: 4px; right: 6px; font-size: 13px; font-weight: bold;">独特单位</span>
-    </td>
-    <th style="font-weight: bold; text-align: center; border: 1px solid #d0d7de; padding: 8px;">魏</th>
-    <th style="font-weight: bold; text-align: center; border: 1px solid #d0d7de; padding: 8px;">蜀</th>
-    <th style="font-weight: bold; text-align: center; border: 1px solid #d0d7de; padding: 8px;">吴</th>
-  </tr>
-  <tr>
-    <td style="font-weight: bold; text-align: center; border: 1px solid #d0d7de; padding: 8px;">城堡兵</td>
-    <td style="text-align: center; border: 1px solid #d0d7de; padding: 8px;">虎豹骑</td>
-    <td style="text-align: center; border: 1px solid #d0d7de; padding: 8px;">白羽卫兵</td>
-    <td style="text-align: center; border: 1px solid #d0d7de; padding: 8px;">火弓手</td>
-  </tr>
-  <tr>
-    <td style="font-weight: bold; text-align: center; border: 1px solid #d0d7de; padding: 8px;">非城堡兵</td>
-    <td style="text-align: center; border: 1px solid #d0d7de; padding: 8px;">鲜卑掠骑兵</td>
-    <td style="text-align: center; border: 1px solid #d0d7de; padding: 8px;">连弩战车</td>
-    <td style="text-align: center; border: 1px solid #d0d7de; padding: 8px;">剑兵</td>
-  </tr>
-</table>
