@@ -25,6 +25,7 @@ AI helps me get knowledge
 | **非城堡兵** | 鲜卑掠骑兵 | 连弩战车 | 剑兵 | 
 
 ## 表格示例4
+
 <table>
   <tr>
     <td><b>步兵</b></td>
@@ -47,6 +48,7 @@ AI helps me get knowledge
     <td>重型投石车</td>
     <td></td>
   </tr>
+
   
 ## 表格示例5
   <table style="text-align: center;">
@@ -72,5 +74,6 @@ AI helps me get knowledge
     <td></td>
   </tr>
 </table>
+
 </table>
 
